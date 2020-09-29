@@ -1,6 +1,6 @@
 ### Hi, I'm [Felipe Sousa](https://felipesousa.space)
 
-I work as a front end engineer at [Concrete Latino America](https://www.linkedin.com/company/concrete-latinoamerica/), sometimes speaker and sometimes writer. I´m based in Santiago, Chile.
+I work as a front end engineer at [Cornershop](https://www.linkedin.com/company/cornershop-app/), sometimes speaker and sometimes writer. I´m based in Santiago, Chile.
 
 Since 2015 I've been living and breathing web development and creating modern and user friendly applications. I've had the chance to immerse myself in many different works, projects, and communities along these years with clients/companies from Brazil, USA and Chile.
 
