@@ -1,6 +1,6 @@
 # Hi! I'm Felipe Sousa
 
-[📋 All Posts](https://felipesousa.space) - [🎙 All Talks](https://felipesousa.space/talks) - [👨🏻‍💻 About Me](https://felipesousa.space/about/) - [⚡️ A bit per day](https://abitperday.com)
+[📋 All Posts](https://felipesousa.space) - [🎙 All Talks](https://felipesousa.space/talks/) - [👨🏻‍💻 About Me](https://felipesousa.space/about/) - [⚡️ A bit per day](https://abitperday.com)
 
 I'm a Front End Engineer working since 2015 living and breathing web development and creating modern and user friendly applications. I've had the chance to immerse myself in many different works, projects, and communities along these years with clients/companies from Brazil, USA and Chile.
 
