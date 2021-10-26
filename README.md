@@ -7,7 +7,7 @@ Hi, I'm Luis Felipe (or Felipe Sousa more commonly). I'm a Brazilian developer b
 ### What I'm focusing on
 Today I'm working as a Tech Lead Frontend at [Cornershop](https://www.linkedin.com/company/cornershop-by-uber/), we're a multi-cultural company with different backgrounds, cultures and methodologies. The role adds responsibilities like make interviews, manage teams, document and organizer design solutions and participate of the product creation process.
 
-## some skills from the last 6 years
+## Skills
 
 As a front end here are some technologies, frameworks and languages that I've worked in the last few years:
 
