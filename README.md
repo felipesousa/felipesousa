@@ -2,10 +2,9 @@
 
 [👨🏻‍💻 Me](https://felipesousa.space/about/)  - [📋 Posts](https://felipesousa.space) - [🎙 Talks](https://felipesousa.space/talks/)
 
-Hi, I'm Luis Felipe (or Felipe Sousa more commonly). I'm a Brazilian developer based at Santiago, Chile. I work with technology since 2015 and since then participating of cool and diferente initiatives like organize and talk in meetups, events and sometimes conferences, also being presenter of a frontend conference in one opportunity and also traveling around the South America's working what I love. Beside a developer I also like to working on managing and team management side, also design, document the architectures and managing and interviewing other news developer's to growth and embrace their careers.
+Hi, I'm Luis Felipe (or Felipe Sousa more commonly). I'm a Brazilian developer based at Santiago, Chile. I work with technology since 2015 and since then participating of cool and diferente initiatives like organizing and talking in meetups, events and sometimes conferences, traveling around the South America's working what I love and sharing my knowledge always when possible. About team management, I've participating of the interviews to the new members and also making part of their growth process, beside design and document architecture applications.
 
-### What I'm focusing on
-Today I'm working as a Tech Lead Frontend at [Cornershop](https://www.linkedin.com/company/cornershop-by-uber/), we're a multi-cultural company with different backgrounds, cultures and methodologies. The role adds responsibilities like make interviews, manage teams, document and organizer design solutions and participate of the product creation process.
+Today I'm working as a Tech Lead Frontend at [Cornershop](https://www.linkedin.com/company/cornershop-by-uber/), we're a multi-cultural company with different backgrounds, cultures and methodologies. 
 
 ## Skills
 
@@ -14,10 +13,10 @@ As a front end here are some technologies, frameworks and languages that I've wo
 - JavaScript (NodeJS / TypesScript / CoffeeScript)
 - CSS (CSS-in-JS / CSS Pre-processors )
 - HTML (HTML 5 / Accessibility / Web Components)
-- NodeJS (Native development, creating APIs and developing 
-- Web Apis (Bluethoot / 
+- NodeJS (Native API / Frameworks and Libraries / Creating custom modules)
+- Web Apis
 
-Exists a lot of diff projects that I've experimented in those years, in a general perspective I think the web base (HTML, CSS and Javascript (and your ecosystem) are whats is more important when we talk about web development.
+Exists a lot of different projects that I've experimented in those years, in a general perspective I think the web base (HTML, CSS and Javascript (and your ecosystem) are whats is more important when we talk about web development.
 
 ### Frameworks / Libraries / Misc
 
