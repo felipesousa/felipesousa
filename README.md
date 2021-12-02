@@ -2,9 +2,15 @@
 
 [👨🏻‍💻 Me](https://felipesousa.space/about/)  - [📋 Posts](https://felipesousa.space) - [🎙 Talks](https://felipesousa.space/talks/)
 
-Hi, I'm Luis Felipe (or Felipe Sousa more commonly). I'm a Brazilian developer based at Santiago, Chile. I work with technology since 2015 and since then participating of cool and diferente initiatives like organizing and talking in meetups, events and sometimes conferences, traveling around the South America's working what I love and sharing my knowledge always when possible. About team management, I've participating of the interviews to the new members and also making part of their growth process, beside design and document architecture applications.
+Hi, welcome!
 
-Today I'm working as a Tech Lead Frontend at [Cornershop](https://www.linkedin.com/company/cornershop-by-uber/), we're a multi-cultural company with different backgrounds, cultures and methodologies. 
+My name is Luis Felipe Sousa, I work with web application development and software systems since 2015. Working with technology has always inspired me to learn and acquire multiple skills, languages and to meet amazing people who teach me to create new and more sophisticated software projects.
+
+I enjoy the practice of shared knowledge and leadership, I like to participate and know the stages of the project I work on so I can give my best and propose new ideas.
+
+I'm passionate about FrontEnd development and its extensions (Native and Hybrid Applications, PWA, SPAs, etc), the web allows me to experiment and go beyond with its APIs and new features which always allows me to create new and more dynamic applications.
+
+I consider myself very focused and always open to learning and accepting new challenges, today I consider myself to be discovering and exploring new skills like leadership, team development, and large-scale projects, including documentation, performance, and scalability.
 
 ## Skills
 
