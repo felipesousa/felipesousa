@@ -38,6 +38,4 @@ I also like to automate or create some personal projects with different language
 
 You can check [more about me on my personal site](https://www.felipesousa.space) or you can get more details about my journey in my [linkedin.](https://www.linkedin.com/in/luisfelipesousa/)
 
-You also can write to me in portuguese, english and spanish, just need to send a email to `hi@felipesousa.space`.
-
 👨🏻‍💻
