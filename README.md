@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm Felipe, Brazilian, 24 years old and 7+ years I work in software development.
+I am Felipe, Brazilian, 24 years old and over 7 years working in software development.
 
 I love technology and everything that can be created with it, I like to explore and always learn something new, and in my free time, I like to read, play chess, or create new features for personal projects.
 
