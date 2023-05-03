@@ -2,7 +2,7 @@
 
 🤓 Software Developer at [Uber](https://uber.com) <br>
 🇧🇷 Born in Fortaleza, Brazil <br>
-🇺🇸 Living in Santiago, Chile <br >
+🇨🇱 Living in Santiago, Chile <br >
 
 ### What I'm working on 👨‍💻
 
