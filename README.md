@@ -1,15 +1,17 @@
-### Hey, I'm Felipe
+### Hi! I'm Felipe Sousa
 
-🤓 Software Developer at [Uber](https://uber.com) <br>
-🇧🇷 Born in Fortaleza, Brazil <br>
-🇨🇱 Living in Santiago, Chile <br >
+🤓 Self-taught developer, working as frontend engineer since 2015 <br>
+🇧🇷 Based at Brazil, living at Fortaleza <br>
+🌎 My hobbies goes around travels, reading, play chess, public speaking, startups, explore new technologies and self made automation. <br > 
 
-### What I'm working on 👨‍💻
+### Tech Skills
+web with html, react, angular (development, migrations, monitoring), services/endpoints development using nodejs and python, database with postgresql, mobile/hybrid applications using react native / ionic.
 
-💼 Creating web platforms and improving merchants experience at Uber.
+### Links
 
-### Find me on internet 🌎
+[Site](https://felipesousa.space) <br>
+[LinkedIn](https://www.linkedin.com/in/luisfelipesousa) <br>
+[Posts](https://felipesousa.space/posts) <br>
+[Talks](https://felipesousa.space/posts) <br>
 
-🚀 [Site](https://felipesousa.space) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/luisfelipesousa) <br>
-🐦 [Twitter](https://twitter.com/felipz_sousa) <br>
+[Send me a mail if you want to talk](mailto:hi@felipesousa.space).
