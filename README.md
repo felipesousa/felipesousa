@@ -9,9 +9,7 @@ web with html, react, angular (development, migrations, monitoring), services/en
 
 ### Links
 
-[Site](https://felipesousa.space) <br>
+<br>
 [LinkedIn](https://www.linkedin.com/in/luisfelipesousa) <br>
-[Posts](https://felipesousa.space/posts) <br>
-[Talks](https://felipesousa.space/posts) <br>
 
 [Send me a mail if you want to talk](mailto:hi@felipesousa.space).
