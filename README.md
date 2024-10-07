@@ -1,16 +1,10 @@
 ### Hi! I'm Felipe Sousa
 
-🤓 Self-taught developer, working as frontend engineer since 2015 <br>
-🇧🇷 Based at Brazil, living at Fortaleza <br>
-🌎 My hobbies goes around travels, reading, play chess, public speaking, startups, explore new technologies and self made automation. <br > 
-
-### Tech Skills
-web with html, react, angular (development, migrations, monitoring), services/endpoints development using nodejs and python, database with postgresql, mobile/hybrid applications using react native / ionic.
+🇧🇷 Software Developer based at Brazil.
 
 ### Links
 
 [LinkedIn](https://www.linkedin.com/in/luisfelipesousa)
 
 
-
-[Send me a mail if you want to talk](mailto:hi@felipesousa.space).
+[Send me a mail if you want to talk](mailto:felipzbr@gmail.com).
